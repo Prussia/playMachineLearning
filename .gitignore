@@ -7,3 +7,4 @@
 .cache/
 jupyter/.ipynb_checkpoints/
 .keras/
+env/.ipynb_checkpoints/Dockerfile-checkpoint
