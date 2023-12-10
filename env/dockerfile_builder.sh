@@ -1,0 +1,1 @@
+docker build -t prussia2016/tensorflow-notebook .
