@@ -2,3 +2,5 @@
 .idea/
 .local/
 .npm/
+.ipython/
+.jupyter/
