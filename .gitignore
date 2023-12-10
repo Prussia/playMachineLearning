@@ -4,3 +4,4 @@
 .npm/
 .ipython/
 .jupyter/
+jupyter/.ipynb_checkpoints/
